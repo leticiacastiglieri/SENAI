@@ -1,0 +1,95 @@
+body{
+    color: rgb(0, 0, 0);
+    margin: 0;
+    background-color: rgb(255, 250, 250);
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+}
+a{
+    text-decoration: none;
+}
+.logo{
+    width: auto;
+    height: 150px;
+}
+.Senai{
+    width: max-content;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+section{
+    padding: 2%;
+}
+.capa{
+    color: rgb(255, 255, 255);
+    height: 500px;
+    background-color: rgb(39, 16, 247);
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.sobreocurso{
+        text-align:flex;
+}        
+h1{
+            font-size: 100px;
+            text-align: end;
+            text-transform: uppercase;
+}
+.fotoleticia{
+        width: 500px;
+}
+    .grupo-aluno{
+        display: flex;
+        justify-content: space-around;
+    }
+.portfolio{
+    height: 50vh;
+    background-color:aqua;
+    display: flex;
+    align-items: center;
+}
+.port-list{
+    flex: 1;
+    text-align: center;
+}
+.aluno, .grupo{
+    display: flex;
+    justify-content: space-around;
+    gap: 200px;
+}
+.sobremim{
+    flex: 1;
+}
+.sobremim{
+    text-align:flex;
+}
+.grupos-title{
+    color:rgb(0, 0, 0);
+    height: 80vh;
+    background-color: rgb(23, 5, 226);
+
+   
+}
+.Grupos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+}
+.logo-grupo{
+   height: 150px;
+   flex: 2;
+  }
+.logo-small{
+    height: auto;
+    width: 300px;
+    display: flex;
+}
+.grupos{
+    flex: 0 0 20%;
+    margin: 30px;
+}
